@@ -1,6 +1,7 @@
 module hw9
 import StdEnv
-//Sadi Mamedov LHXOTB
+
+//A : Sadi Mamedov
 
 :: Tree a = Node a (Tree a) (Tree a)
             | Leaf
